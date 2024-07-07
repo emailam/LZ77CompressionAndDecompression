@@ -10,7 +10,7 @@ This project consists of two Java files: one implementing a compression algorith
 # Usage
 To use this project, clone the repository and compile the Java files using a Java compiler. Run LZ77CompressProgram.java to compress data and LZ77DecompressProgram.java to decompress data. The user must provide the appropriate input files for each operation.
 # Contact
-For any questions or further information, please contact me at: 
+For any questions or further information, please contact us at: 
 1. mohamedkhaledfcai@gmail.com
 2. a.mohamad.abdelwahab@gmail.com
 3. alitarek664@gmail.com
