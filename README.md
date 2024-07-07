@@ -12,6 +12,7 @@ To use this project, clone the repository and compile the Java files using a Jav
 # Contact
 For any questions or further information, please contact me at: 
 1. mohamedkhaledfcai@gmail.com
-2. 
+2. a.mohamad.abdelwahab@gmail.com
+3. alitarek664@gmail.com
 
 Feel free to reach out if you have any issues or need assistance with the project.
